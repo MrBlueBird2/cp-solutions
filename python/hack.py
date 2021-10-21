@@ -1,6 +1,6 @@
 import os
 
-for i in range(10):
+for i in range(30):
     d = '1 day ago'
     ## Open a text file and modify it
     with open('bot.txt', 'a') as file:
