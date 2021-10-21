@@ -10,4 +10,4 @@ os.system('git add bot.txt')
 os.system('git commit --date="' + d + '" -m "first commit"')
 
 ## push the commit to github
-os.system('git push -u origin master')
+os.system('git push -u origin main')
