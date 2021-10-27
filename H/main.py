@@ -6,4 +6,4 @@ for i in range(1, 500):
     os.system("touch bot.txt")
     os.system('git add -A')
     os.system('git commit -m "Added File"')
-os.system('git push -u origin master')
+os.system('git push -u origin main')
